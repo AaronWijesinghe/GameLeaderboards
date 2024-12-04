@@ -1,6 +1,6 @@
-Places = [
+leaderboard = [
     {
-        "awarded_to": "aaron",
+        "contestant": "aaron",
         "score": 100
     }
 ]
